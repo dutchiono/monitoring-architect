@@ -1,0 +1,1 @@
+$path:tmp/monitoring-ARCHITECTURE.md
